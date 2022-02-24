@@ -5,7 +5,6 @@
 ![](y.gif)
 ![](x.gif)
 
-[![Twitter Badge](https://img.shields.io/badge/-@Vanshika302-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/fadlan6849)](https://twitter.com/fadlan6849)
 [![Gmail Badge](https://img.shields.io/badge/-fatahhamidzan@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pandeyvanshi3028@gmail.com)](mailto:fatahhamidzan@gmail.com)
 
 I'm M Alif fadlan 😃
