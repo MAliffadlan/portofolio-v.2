@@ -5,7 +5,7 @@
 ![](y.gif)
 ![](x.gif)
 
-[![Twitter Badge](https://img.shields.io/badge/-@Vanshika302-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/M Alif fadlan)](https://twitter.com/fadlan6849) [![Linkedin Badge](https://img.shields.io/badge/-VanshikaPandey-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/M-Alif-fadlan-b448391a5/)](https://www.linkedin.com/in/m-alif-fadlan-9a3771229/)
+[![Twitter Badge](https://img.shields.io/badge/-@Vanshika302-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/M-Alif-fadlan)](https://twitter.com/fadlan6849) [![Linkedin Badge](https://img.shields.io/badge/-VanshikaPandey-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/M-Alif-fadlan-b448391a5/)](https://www.linkedin.com/in/m-alif-fadlan-9a3771229/)
 [![Gmail Badge](https://img.shields.io/badge/-fatahhamidzan@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pandeyvanshi3028@gmail.com)](mailto:fatahhamidzan@gmail.com)
 
 I'm M Alif fadlan 😃
