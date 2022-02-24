@@ -18,9 +18,7 @@ I'm M Alif fadlan 😃
 - I’m looking to collaborate on projects.
 - Please visit my portfolio [website].
 - Contact me: fatahhamidzan@gmail.com
-  <img align="right" src="assets/img/profile2.png" width="300" height="300" />
-
-<img alt="" src="https://github-readme-stats.vercel.app/api?username=Vanshikapandey30&theme=dark&count_private=true&show_icons=truehow_icons=true&hide_border=true" />
+  <img align="right" src="assets/img/c.jpg" width="300" height="300" />
 
 <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=Vanshikapandey30&theme=dark&show_icons=true&locale=en&layout=compact" alt="M Alif fadlan"  />
 <p><img  src="https://github-readme-streak-stats.herokuapp.com/?user=Vanshikapandey30&theme=dark" alt="M Alif fadlan /></p>
